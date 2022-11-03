@@ -35,3 +35,5 @@ It has all the necessary files for one to create a copy for personal use.
 ### Hardware
 - Case Screws:
   - x8 8mm M2.5 Socket Head
+- Accent Screws:
+  - x2 5mm M2.5 Flat head
