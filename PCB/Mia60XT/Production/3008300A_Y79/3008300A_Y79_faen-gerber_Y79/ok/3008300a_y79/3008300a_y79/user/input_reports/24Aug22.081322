@@ -1,0 +1,1560 @@
+Date : 24 Aug 2022
+Time : 08:13
+
+
+----------------------------------------------------------------------
+     1. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/Faen65XT-F_Paste.gbr
+----------------------------------------------------------------------
+        File size         : 470 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : gtp
+
+        Start translation : 08:13:21
+        *** Error during translation ***
+        Error message     : iol_i274x-262004-Data error in input 274X file 
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/Faen65XT-F_Paste.gbr
+Line = 1; Position = 1
+Last record = TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  2. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/bl_Faen65XT-B_Cu.gbr
+----------------------------------------------------------------------
+        File size         : 730795 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : bl
+
+        Start translation : 08:13:21
+        End   translation : 08:13:21
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = oval398.78x13390.88 my (oval15.7x527.2 mil), Count = 40
+         2.D011, Symbol = oval398.78x13390.88 my (oval15.7x527.2 mil), Count = 25
+         3.D012, Symbol = oval13390.88x398.78 my (oval527.2x15.7 mil), Count = 8
+         4.D013, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+         5.D014, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+         6.D015, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+         7.D016, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+         8.D017, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 24
+         9.D018, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 24
+        10.D019, Symbol = s5600 my (s220.472 mil), Count = 1
+        11.D020, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        12.D021, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        13.D022, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        14.D023, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        15.D024, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        16.D025, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        17.D026, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        18.D027, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        19.D028, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        20.D029, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        21.D030, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        22.D031, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        23.D032, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        24.D033, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        25.D034, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        26.D035, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        27.D036, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        28.D037, Symbol = s1700 my (s66.929 mil), Count = 1
+        29.D038, Symbol = r1700 my (r66.929 mil), Count = 1
+        30.D039, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        31.D040, Symbol = r800 my (r31.496 mil), Count = 803
+        32.D041, Symbol = r350 my (r13.78 mil), Count = 195
+        33.D042, Symbol = r250 my (r9.843 mil), Count = 204
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  3. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/bo_Faen65XT-B_Silkscreen.gbr
+----------------------------------------------------------------------
+        File size         : 123695 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : bo
+
+        Start translation : 08:13:21
+        End   translation : 08:13:21
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Warning! Interpreted zero-degree arc as 360 degree. See configuration parameter iol_gbr_arc_as_full_circle .
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r150 my (r5.906 mil), Count = 1322
+         2.D011, Symbol = r125 my (r4.921 mil), Count = 47
+         3.D012, Symbol = r100 my (r3.937 mil), Count = 52
+         4.D013, Symbol = r120 my (r4.724 mil), Count = 122
+         5.D014, Symbol = r170.18 my (r6.7 mil), Count = 12
+         6.D015, Symbol = r2.54 my (r0.1 mil), Count = 2
+         7.D016, Symbol = r127 my (r5 mil), Count = 5
+         8.D017, Symbol = r200 my (r7.874 mil), Count = 1
+         9.D018, Symbol = r2200 my (r86.614 mil), Count = 34
+        10.D019, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+        11.D020, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+        12.D021, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+        13.D022, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+        14.D023, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 24
+        15.D024, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 24
+        16.D025, Symbol = s5600 my (s220.472 mil), Count = 1
+        17.D026, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        18.D027, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        19.D028, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        20.D029, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        21.D030, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        22.D031, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        23.D032, Symbol = r700 my (r27.559 mil), Count = 2
+        24.D033, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        25.D034, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        26.D035, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        27.D036, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        28.D037, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        29.D038, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        30.D039, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        31.D040, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        32.D041, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        33.D042, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        34.D043, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        35.D044, Symbol = s1700 my (s66.929 mil), Count = 1
+        36.D045, Symbol = r1700 my (r66.929 mil), Count = 1
+        37.D046, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/bo_Faen65XT-B_Silkscreen.gbr
+Line = 4361; Position = 104188
+Last record = 30434460Y1537520I-100000J0D01*
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  4. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/bp_Faen65XT-B_Paste.gbr
+----------------------------------------------------------------------
+        File size         : 10851 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : gbp
+
+        Start translation : 08:13:21
+        End   translation : 08:13:21
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+         2.D011, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+         3.D012, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+         4.D013, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+         5.D014, Symbol = rect1130.3x1130.3xr248.92 my (rect44.5x44.5xr9.8 mil), Count = 16
+         6.D015, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 24
+         7.D016, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 24
+         8.D017, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+         9.D018, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        10.D019, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        11.D020, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        12.D021, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        13.D022, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        14.D023, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        15.D024, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        16.D025, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        17.D026, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        18.D027, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        19.D028, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        20.D029, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        21.D030, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        22.D031, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        23.D032, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        24.D033, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  5. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/bs_Faen65XT-B_Mask.gbr
+----------------------------------------------------------------------
+        File size         : 12885 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : bs
+
+        Start translation : 08:13:21
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r2200 my (r86.614 mil), Count = 34
+         2.D011, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+         3.D012, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+         4.D013, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+         5.D014, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+         6.D015, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 24
+         7.D016, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 24
+         8.D017, Symbol = s5600 my (s220.472 mil), Count = 1
+         9.D018, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        10.D019, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        11.D020, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        12.D021, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        13.D022, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        14.D023, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        15.D024, Symbol = r700 my (r27.559 mil), Count = 2
+        16.D025, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        17.D026, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        18.D027, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        19.D028, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        20.D029, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        21.D030, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        22.D031, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        23.D032, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        24.D033, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        25.D034, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        26.D035, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        27.D036, Symbol = s1700 my (s66.929 mil), Count = 1
+        28.D037, Symbol = r1700 my (r66.929 mil), Count = 1
+        29.D038, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  6. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/drl_Faen65XT-PTH.drl
+----------------------------------------------------------------------
+        File size         : 13747 Bytes
+        Format            : Excellon2
+        Step  name        : orig
+        Layer name        : drl
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.4
+        Separator char    : nl
+        Tool units        : inch
+
+             Tools  Histogram    
+        =========================
+         1.T01, Count = 803, Size = 15.7 mil (398.78 my)
+         2.T02, Count = 4, Size = 25.6 mil (650.25 my)
+         3.T03, Count = 2, Size = 39.4 mil (1000.75 my)
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_drl_def_drill - 0 (Excellon)
+
+       iol_exc_use_header - no
+
+       iol_exc_g00_canc_comp - yes
+
+       iol_read_rout_chain - yes
+
+       iol_reset_after_tool_change - no
+
+       iol_exc_g32_g33_comp - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  7. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/g1_Faen65XT-In1_Cu.gbr
+----------------------------------------------------------------------
+        File size         : 447353 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : l2
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+         2.D011, Symbol = s1700 my (s66.929 mil), Count = 1
+         3.D012, Symbol = r1700 my (r66.929 mil), Count = 1
+         4.D013, Symbol = r800 my (r31.496 mil), Count = 803
+         5.D014, Symbol = r500 my (r19.685 mil), Count = 98
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  8. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/g2_Faen65XT-In2_Cu.gbr
+----------------------------------------------------------------------
+        File size         : 509326 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : l3
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+         2.D011, Symbol = s1700 my (s66.929 mil), Count = 1
+         3.D012, Symbol = r1700 my (r66.929 mil), Count = 1
+         4.D013, Symbol = r800 my (r31.496 mil), Count = 803
+         5.D014, Symbol = r500 my (r19.685 mil), Count = 164
+         6.D015, Symbol = r350 my (r13.78 mil), Count = 3
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  9. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/gko_Faen65XT-Edge_Cuts.gbr
+----------------------------------------------------------------------
+        File size         : 1072 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : ko
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r100 my (r3.937 mil), Count = 8
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 10. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/npth_Faen65XT-NPTH.drl
+----------------------------------------------------------------------
+        File size         : 921 Bytes
+        Format            : Excellon2
+        Step  name        : orig
+        Layer name        : drl+1
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.4
+        Separator char    : nl
+        Tool units        : inch
+
+             Tools  Histogram    
+        =========================
+         1.T01, Count = 2, Size = 27.6 mil (701.04 my)
+         2.T02, Count = 34, Size = 86.6 mil (2199.64 my)
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_drl_def_drill - 0 (Excellon)
+
+       iol_exc_use_header - no
+
+       iol_exc_g00_canc_comp - yes
+
+       iol_read_rout_chain - yes
+
+       iol_reset_after_tool_change - no
+
+       iol_exc_g32_g33_comp - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 11. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/tl_Faen65XT-F_Cu.gbr
+----------------------------------------------------------------------
+        File size         : 619579 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : tl
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = i274x.freepoly0.d10 my (i274x.freepoly0.d10 mil), Count = 65
+         2.D011, Symbol = i274x.freepoly0.d11 my (i274x.freepoly0.d11 mil), Count = 65
+         3.D012, Symbol = oval398.78x14389.1 my (oval15.7x566.5 mil), Count = 40
+         4.D013, Symbol = oval398.78x14389.1 my (oval15.7x566.5 mil), Count = 25
+         5.D014, Symbol = i274x.freepoly0.d14 my (i274x.freepoly0.d14 mil), Count = 8
+         6.D015, Symbol = i274x.freepoly0.d15 my (i274x.freepoly0.d15 mil), Count = 8
+         7.D016, Symbol = oval14389.1x398.78 my (oval566.5x15.7 mil), Count = 8
+         8.D017, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+         9.D018, Symbol = s1700 my (s66.929 mil), Count = 1
+        10.D019, Symbol = r1700 my (r66.929 mil), Count = 1
+        11.D020, Symbol = r800 my (r31.496 mil), Count = 803
+        12.D021, Symbol = r350 my (r13.78 mil), Count = 33
+        13.D022, Symbol = r250 my (r9.843 mil), Count = 32
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        Number of points in 'AM'-defined polygon exceeds limit (=50).
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/tl_Faen65XT-F_Cu.gbr
+Line = 63; Position = 3377
+Last record = 10*
+
+        Number of points in 'AM'-defined polygon exceeds limit (=50).
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/tl_Faen65XT-F_Cu.gbr
+Line = 67; Position = 3455
+Last record = 11*
+
+        Number of points in 'AM'-defined polygon exceeds limit (=50).
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/tl_Faen65XT-F_Cu.gbr
+Line = 271; Position = 7196
+Last record = 14*
+
+        Number of points in 'AM'-defined polygon exceeds limit (=50).
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/tl_Faen65XT-F_Cu.gbr
+Line = 275; Position = 7274
+Last record = 15*
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 12. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/to_Faen65XT-F_Silkscreen.gbr
+----------------------------------------------------------------------
+        File size         : 12452 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : to
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Warning! Interpreted zero-degree arc as 360 degree. See configuration parameter iol_gbr_arc_as_full_circle .
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r900 my (r35.433 mil), Count = 73
+         2.D011, Symbol = r2200 my (r86.614 mil), Count = 68
+         3.D012, Symbol = r700 my (r27.559 mil), Count = 2
+         4.D013, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+         5.D014, Symbol = s1700 my (s66.929 mil), Count = 1
+         6.D015, Symbol = r1700 my (r66.929 mil), Count = 1
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/to_Faen65XT-F_Silkscreen.gbr
+Line = 26; Position = 709
+Last record = 182679500Y-38100000I-6467000J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/to_Faen65XT-F_Silkscreen.gbr
+Line = 32; Position = 807
+Last record = 318410750Y-28575000I-6467000J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/to_Faen65XT-F_Silkscreen.gbr
+Line = 38; Position = 902
+Last record = 6467000Y-38100000I-6467000J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/to_Faen65XT-F_Silkscreen.gbr
+Line = 44; Position = 998
+Last record = 201729500Y-38100000I-6467000J0D01*
+
+        Warning! Interpreted zero-degree arc as 360 degree.
+File = E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/to_Faen65XT-F_Silkscreen.gbr
+Line = 50; Position = 1095
+Last record = 96954500Y-57150000I-6467000J0D01*
+
+Number of location messages exceeds 40.
+Rest of messages suppressed and can be found in log.
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 13. Path : (File) E:/ybc/300830~1/X1_3008300A_Y79_faen-gerber_Y79/ts_Faen65XT-F_Mask.gbr
+----------------------------------------------------------------------
+        File size         : 3047 Bytes
+        Format            : Gerber274x
+        Step  name        : orig
+        Layer name        : ts
+
+        Start translation : 08:13:22
+        End   translation : 08:13:22
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 4.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r2200 my (r86.614 mil), Count = 34
+         2.D011, Symbol = r700 my (r27.559 mil), Count = 2
+         3.D012, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+         4.D013, Symbol = s1700 my (s66.929 mil), Count = 1
+         5.D014, Symbol = r1700 my (r66.929 mil), Count = 1
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - yes
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - no
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - yes
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+        ****************************
+        *Grand Total Dcodes Summary*
+        ****************************
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r100 my (r3.937 mil), Count = 8
+         2.D010, Symbol = i274x.freepoly0.d10 my (i274x.freepoly0.d10 mil), Count = 65
+         3.D010, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+         4.D010, Symbol = r2200 my (r86.614 mil), Count = 68
+         5.D010, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 8
+         6.D010, Symbol = r150 my (r5.906 mil), Count = 1322
+         7.D010, Symbol = oval398.78x13390.88 my (oval15.7x527.2 mil), Count = 40
+         8.D010, Symbol = r900 my (r35.433 mil), Count = 73
+         9.D011, Symbol = r125 my (r4.921 mil), Count = 47
+        10.D011, Symbol = r700 my (r27.559 mil), Count = 2
+        11.D011, Symbol = i274x.freepoly0.d11 my (i274x.freepoly0.d11 mil), Count = 65
+        12.D011, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 30
+        13.D011, Symbol = r2200 my (r86.614 mil), Count = 68
+        14.D011, Symbol = s1700 my (s66.929 mil), Count = 2
+        15.D011, Symbol = oval398.78x13390.88 my (oval15.7x527.2 mil), Count = 25
+        16.D012, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        17.D012, Symbol = oval398.78x14389.1 my (oval15.7x566.5 mil), Count = 40
+        18.D012, Symbol = r700 my (r27.559 mil), Count = 2
+        19.D012, Symbol = oval13390.88x398.78 my (oval527.2x15.7 mil), Count = 8
+        20.D012, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+        21.D012, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+        22.D012, Symbol = r1700 my (r66.929 mil), Count = 2
+        23.D012, Symbol = r100 my (r3.937 mil), Count = 52
+        24.D013, Symbol = r800 my (r31.496 mil), Count = 1606
+        25.D013, Symbol = r120 my (r4.724 mil), Count = 122
+        26.D013, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        27.D013, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+        28.D013, Symbol = oval398.78x14389.1 my (oval15.7x566.5 mil), Count = 25
+        29.D013, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+        30.D013, Symbol = s1700 my (s66.929 mil), Count = 1
+        31.D013, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+        32.D014, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+        33.D014, Symbol = rect1130.3x1130.3xr248.92 my (rect44.5x44.5xr9.8 mil), Count = 16
+        34.D014, Symbol = r1700 my (r66.929 mil), Count = 1
+        35.D014, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+        36.D014, Symbol = i274x.freepoly0.d14 my (i274x.freepoly0.d14 mil), Count = 8
+        37.D014, Symbol = s1700 my (s66.929 mil), Count = 1
+        38.D014, Symbol = r170.18 my (r6.7 mil), Count = 12
+        39.D014, Symbol = r500 my (r19.685 mil), Count = 262
+        40.D015, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+        41.D015, Symbol = r2.54 my (r0.1 mil), Count = 2
+        42.D015, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 48
+        43.D015, Symbol = r350 my (r13.78 mil), Count = 3
+        44.D015, Symbol = r1700 my (r66.929 mil), Count = 1
+        45.D015, Symbol = i274x.freepoly0.d15 my (i274x.freepoly0.d15 mil), Count = 8
+        46.D016, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+        47.D016, Symbol = r127 my (r5 mil), Count = 5
+        48.D016, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 48
+        49.D016, Symbol = oval14389.1x398.78 my (oval566.5x15.7 mil), Count = 8
+        50.D017, Symbol = r200 my (r7.874 mil), Count = 1
+        51.D017, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 24
+        52.D017, Symbol = s5600 my (s220.472 mil), Count = 1
+        53.D017, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        54.D017, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        55.D018, Symbol = r2200 my (r86.614 mil), Count = 34
+        56.D018, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 24
+        57.D018, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        58.D018, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        59.D018, Symbol = s1700 my (s66.929 mil), Count = 1
+        60.D019, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 12
+        61.D019, Symbol = r1700 my (r66.929 mil), Count = 1
+        62.D019, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        63.D019, Symbol = s5600 my (s220.472 mil), Count = 1
+        64.D019, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        65.D020, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        66.D020, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        67.D020, Symbol = r800 my (r31.496 mil), Count = 803
+        68.D020, Symbol = rect640.08x541.02xr134.62 my (rect25.2x21.3xr5.3 mil), Count = 18
+        69.D020, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        70.D021, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        71.D021, Symbol = r350 my (r13.78 mil), Count = 33
+        72.D021, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 8
+        73.D021, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        74.D021, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        75.D022, Symbol = r250 my (r9.843 mil), Count = 32
+        76.D022, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        77.D022, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        78.D022, Symbol = rect1778x419.1 my (rect70x16.5 mil), Count = 32
+        79.D022, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        80.D023, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        81.D023, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        82.D023, Symbol = rect873.75x248.92xr63.5 my (rect34.4x9.8xr2.5 mil), Count = 24
+        83.D023, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        84.D024, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        85.D024, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        86.D024, Symbol = r700 my (r27.559 mil), Count = 2
+        87.D024, Symbol = rect248.92x873.75xr63.5 my (rect9.8x34.4xr2.5 mil), Count = 24
+        88.D025, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        89.D025, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        90.D025, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        91.D025, Symbol = s5600 my (s220.472 mil), Count = 1
+        92.D026, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        93.D026, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        94.D026, Symbol = rect541.02x640.08xr134.62 my (rect21.3x25.2xr5.3 mil), Count = 18
+        95.D026, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        96.D027, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        97.D027, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        98.D027, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        99.D027, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        100.D028, Symbol = rect1800x1200 my (rect70.866x47.244 mil), Count = 2
+        101.D028, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        102.D028, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        103.D028, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        104.D029, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        105.D029, Symbol = rect1550x600 my (rect61.024x23.622 mil), Count = 4
+        106.D029, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        107.D029, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        108.D030, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        109.D030, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        110.D030, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 8
+        111.D030, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        112.D031, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        113.D031, Symbol = rect1750.06x1249.68xr248.92 my (rect68.9x49.2xr9.8 mil), Count = 2
+        114.D031, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        115.D031, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        116.D032, Symbol = r700 my (r27.559 mil), Count = 2
+        117.D032, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        118.D032, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        119.D032, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        120.D033, Symbol = rect600x1450 my (rect23.622x57.087 mil), Count = 4
+        121.D033, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        122.D033, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        123.D033, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        124.D034, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        125.D034, Symbol = rect300x1450 my (rect11.811x57.087 mil), Count = 8
+        126.D034, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        127.D035, Symbol = oval1050x2100 my (oval41.339x82.677 mil), Count = 4
+        128.D035, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        129.D035, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        130.D036, Symbol = rect700x1000 my (rect27.559x39.37 mil), Count = 1
+        131.D036, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        132.D036, Symbol = s1700 my (s66.929 mil), Count = 1
+        133.D037, Symbol = rect700x600 my (rect27.559x23.622 mil), Count = 3
+        134.D037, Symbol = r1700 my (r66.929 mil), Count = 1
+        135.D037, Symbol = s1700 my (s66.929 mil), Count = 1
+        136.D038, Symbol = rect975.36x949.96xr238.75 my (rect38.4x37.4xr9.4 mil), Count = 2
+        137.D038, Symbol = r1700 my (r66.929 mil), Count = 1
+        138.D038, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        139.D039, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        140.D039, Symbol = rect599.44x1950.72xr149.86 my (rect23.6x76.8xr5.9 mil), Count = 8
+        141.D040, Symbol = rect599.44x500.38xr124.46 my (rect23.6x19.7xr4.9 mil), Count = 2
+        142.D040, Symbol = r800 my (r31.496 mil), Count = 803
+        143.D041, Symbol = rect599.44x1475.75xr149.86 my (rect23.6x58.1xr5.9 mil), Count = 3
+        144.D041, Symbol = r350 my (r13.78 mil), Count = 195
+        145.D042, Symbol = rect558.8x619.75xr139.7 my (rect22x24.4xr5.5 mil), Count = 8
+        146.D042, Symbol = r250 my (r9.843 mil), Count = 204
+        147.D043, Symbol = rect619.75x558.8xr139.7 my (rect24.4x22xr5.5 mil), Count = 2
+        148.D044, Symbol = s1700 my (s66.929 mil), Count = 1
+        149.D045, Symbol = r1700 my (r66.929 mil), Count = 1
+        150.D046, Symbol = rect1900x400 my (rect74.803x15.748 mil), Count = 3
+        

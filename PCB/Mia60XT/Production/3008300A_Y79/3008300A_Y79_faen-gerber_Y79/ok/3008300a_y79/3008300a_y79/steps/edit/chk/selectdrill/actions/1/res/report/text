@@ -1,0 +1,30 @@
+JOB  :  3008300a_y79
+STEP :  edit
+DATE :  24 Aug 2022
+TIME :  08:17:10
+Created by GENESIS
+
+****************** Report for drill layer drl ******************
+
+ Hole Separation check
+ *********************
+
+   Duplicate Holes
+   ===============
+   No results
+
+
+   Touching Holes
+   ==============
+   No results
+
+
+   Close Holes
+   ===========
+   Size(Spacing) / Count
+   ---------------------
+   482.6- 508               2
+
+   Alarms:
+      1. (46.199715,90.634885) Size=  498.82  Pad = r750 Pad = r400 
+      2. (40.43397,90.6346875) Size=  501.26  Pad = r750 Pad = r400 

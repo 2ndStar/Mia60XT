@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Git/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "cipulot_parts")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Git/cipulot_kicad_parts/cipulot_parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Git/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "OPA350UA_2K5")(type "Legacy")(uri "C:/Users/Jayden/Desktop/Git/random-kicad-parts/OPA350UA_2K5/OPA350UA_2K5.lib")(options "")(descr ""))
+)
