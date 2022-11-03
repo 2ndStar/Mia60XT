@@ -10,6 +10,8 @@ It has all the necessary files for one to create a copy for personal use.
 ## PCB
 ### Note
 - The project was initialy named **Faen** and the layout was to be 65% + XT. Ignore the naming of the PCB files.
+- The Layout is fixed
+![The layout is fixed](https://i.imgur.com/G2opOJH.jpg)
 
 ## Case
 ### Parts
