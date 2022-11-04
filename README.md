@@ -9,6 +9,7 @@ Please refer to the LICENSE.md file in this repository for the terms of use. The
 - **PCB Files**: 
   - Not perfect! It works but needs to be bandaid fixed with Vial. I have no desire to fix the wiring issue but you're welcome to tinker with my rendition or make your own PCB.
   - I have absolutely no knowledge on how EC PCBs work. It is an (almost) 1 for 1 copy of [Cipulot's EC60](https://github.com/Cipulot/EC60). 
+  - I do not take credit for the creation of the PCB.
   - All credits go to [Cipulot](https://github.com/Cipulot) for making the EC60 open source.
 
 ## PCB
