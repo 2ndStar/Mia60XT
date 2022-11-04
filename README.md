@@ -2,6 +2,9 @@
 This repository has the production files for the Mia60XT keyboard. It is a 60% (Fixed JIS Layout) + XT Column with Topre switches.
 It has all the necessary files for one to create a copy for personal use.
 
+# Terms of Use
+Please refer to the LICENSE.md file in this repository for the terms of use. The purpose of sharing the design is so others may create their own copy of the keyboard if they wish while also preventing the commercial re-use of the design.
+
 ##  Disclaimer
 - **PCB Files**: 
   - Not perfect! It works but needs to be bandaid fixed with Vial. I have no desire to fix the wiring issue but you're welcome to tinker with my rendition or make your own PCB.
