@@ -18,7 +18,7 @@ It has all the necessary files for one to create a copy for personal use.
 - The case is a simple 2 parts (Top + bottom) and an accent piece
 ### Plate
 - **Thickness**: 1.2mm
-- **Material**: Metal
+- **Material**: Metal - Something that can be tapped
   - I used Mild Steel because it's cheap on SendCutSend
 - Self-tapped using a M2 tap head
   - SendCutSend also offers tapping service but might not for 1.2mm Mild Steel
