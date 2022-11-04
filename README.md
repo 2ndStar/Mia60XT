@@ -39,6 +39,7 @@ Please refer to the LICENSE.md file in this repository for the terms of use. The
 - Thin foam strip underside of Top Case
   - Prevents metal-metal contact between plate and underside of top case
   - McMaster Part: [1488N601](https://www.mcmaster.com/1488N601/)
+![oring](https://i.imgur.com/WoGE5xs.jpg)
 ### Hardware
 - Case Screws:
   - x8 8mm M2.5 Socket Head
